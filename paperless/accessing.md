@@ -19,4 +19,5 @@ These are the main components of the `Paperless Module`:
 
 In order to proceed, you must have the following:
 1. Approval from Chris Haycraft to access L&R Midland's `Paperless Module`
-2. Installed and Configured [Azure File Explorer](https://azure.microsoft.com/en-us/products/storage/storage-explorer/) in your local computer. Contact Chris Haycraft to arrange for an installation and configuration of the software in your local computer.
+2. Installed and Configured [Azure File Explorer](https://azure.microsoft.com/en-us/products/storage/storage-explorer/) in your local computer
+> Contact Chris Haycraft to arrange for an installation and configuration of the software in your local computer.

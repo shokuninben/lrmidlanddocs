@@ -25,4 +25,5 @@ In order to proceed, you must have the following:
 ## View files
 | # | Step | Description |
 |------------|------------|------------|
-| 1| Open Azure File Explorer | Launch and open Azure File Explorer at your local machine |
+| 1| Open Azure File Explorer | Launch and open Azure File Explorer at your local machine. <br /> View [here](img/azure_file_explorer.png) |
+

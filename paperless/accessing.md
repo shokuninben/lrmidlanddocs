@@ -1,1 +1,1 @@
-# Accessing L&R Midland's Groundbreaking an Integrated Paperless Feature
+# Accessing L&R Midland's Groundbreaking and Integrated Paperless Feature

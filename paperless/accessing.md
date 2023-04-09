@@ -5,6 +5,7 @@
   * [Exploring and Viewing Files](#exploring-and-viewing-files)
   * [Uploading a file or folder](#uploading-a-file-or-folder)
   * [Downloading a file or folder](#downloading-a-file-or-folder)
+  * [Deleting a file or folder](#deleting-a-file-or-folder)
 
 # Accessing L&R Midland's Groundbreaking and Integrated Paperless Feature
 
@@ -55,5 +56,9 @@ There are two ways to upload files using the file explorer
 > NOTE: You can upload a folder or multiple files by selecting them and using either method above.
 
 ## Downloading a file or folder
+| # | Step | Description |
+|------------|------------|------------|
+
+## Deleting a file or folder
 | # | Step | Description |
 |------------|------------|------------|

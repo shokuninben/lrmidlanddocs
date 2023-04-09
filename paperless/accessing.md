@@ -62,7 +62,7 @@ There are two ways to upload files using the file explorer
 |------------|------------|------------|
 |1|Select file or folder to download | Click download to initiate. A dialog box will appear to ask you where to store the file at your local computer. ![Download file or folder](img/downloadfile.png)|
 |2| **Multiple download** download option | Select the files and folders you wish to download then click download to start.  A dialog box will appear to ask you where to store the file at your local computer. ![Download multiple](img/multipledownload.png)|
-|3| **Download All** option | This option when used downloads all the files and folders at the current root directory. ![download all](img/downloadall.png)|
+|3| **Download All** option | This option when used downloads all the files and folders at the current root directory. <br />In the example below, the "Download All" option will download the entire **230085** folder and its contents.![download all](img/downloadall.png) |
 
 ## Deleting a file or folder
 | # | Step | Description |

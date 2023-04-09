@@ -44,7 +44,7 @@ In order to proceed, you must have the following:
 |3| Double click on a folder to view the contents within | Each folder will contain 3 main folders <ul><li>Contract</li><li>Miscellaneuous</li><li>Nomination_Confirmation</li></ul> ![Main Folders](img/mainfolders.png)|
 |4| Folder arrows and breadcrumb navigations | <ul><li>Click on the navigation arrows to move to other folder levels and explore</li><li> You can also use the breadcrumb navigation to move here to and from folders </li></ul> ![Navigation options](img/navigations.png)|
 
-## Uploading a file(s) or folder
+## Uploading a file or folder
 There are two ways to upload files using the file explorer
 
 | # | Step | Description |
@@ -52,6 +52,8 @@ There are two ways to upload files using the file explorer
 |1 | Select and Upload | Click on the **Upload** button to begin uploading files or folders to a specific folder ![Upload process](img/upload.png) |
 |2| Drag and Drop|Select the file or files to upload and drag them to the file storage. Note that the file(s) will be uploaded to the folder where you're currently at. ![Drag to upload](img/dragupload.png) <br /><br /> For easier reference, the last node of your **Breadcrumb navigation** is your current folder. ![Current folder](img/currentfolder.png)|
 
-## Downloading file(s) or folder
+> NOTE: You can upload a folder or multiple files by selecting them and using either method above.
+
+## Downloading a file or folder
 | # | Step | Description |
 |------------|------------|------------|

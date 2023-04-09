@@ -35,4 +35,6 @@ In order to proceed, you must have the following:
 | 2 | Navigate to lrmidlandpaperless File Storage node | <ul><li>Click to expand on `Storage Accounts`</li> <li>Expand `stractlrml` </li><li>Expand `File Shares` </li><li>Double click `lrmidlandpaperless` node to open and explore cloud-based storage </li></ul> View expanded storage explorer for further reference: ![Expanded view](img/stoage_expanded.png)|
 
 ## Exploring and Viewing Files
-
+| # | Step | Description |
+|------------|------------|------------|
+|1| Navigate to the root folder `LRMidland`| Using the file explorer, double click on LRMidland root folder  ![L&R Midland root folder at file storage](img/LRMidlandRoot.png)|

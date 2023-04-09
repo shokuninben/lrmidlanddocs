@@ -68,3 +68,4 @@ There are two ways to upload files using the file explorer
 | # | Step | Description |
 |------------|------------|------------|
 |1| Deleting a file or folder | Select the file or folder you wish to delete and select **Delete** at the main ribbon menu. ![Delete selected](img/deleteselected.png)|
+|2| Delete confirmation dialog | Select **Yes** to confirm deletion or **No** to cancel ![Delete confirmation dialog box](img/deleteconfirmdialog.png)|

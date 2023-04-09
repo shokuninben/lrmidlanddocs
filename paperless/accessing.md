@@ -3,8 +3,8 @@
   * [Pre-requisites](#pre-requisites)
   * [Connecting to L&R Midland's "Paperless" storage](#connecting-to-l-r-midland-s--paperless--storage)
   * [Exploring and Viewing Files](#exploring-and-viewing-files)
-  * [Uploading a file](#uploading-a-file)
-  * [Downloading a file](#downloading-a-file)
+  * [Uploading a file(s) or folder](#uploading-a-file-s--or-folder)
+  * [Downloading file(s) or folder](#downloading-file-s--or-folder)
 
 # Accessing L&R Midland's Groundbreaking and Integrated Paperless Feature
 
@@ -44,13 +44,14 @@ In order to proceed, you must have the following:
 |3| Double click on a folder to view the contents within | Each folder will contain 3 main folders <ul><li>Contract</li><li>Miscellaneuous</li><li>Nomination_Confirmation</li></ul> ![Main Folders](img/mainfolders.png)|
 |4| Folder arrows and breadcrumb navigations | <ul><li>Click on the navigation arrows to move to other folder levels and explore</li><li> You can also use the breadcrumb navigation to move here to and from folders </li></ul> ![Navigation options](img/navigations.png)|
 
-## Uploading a file or folder
-> There are two ways to upload files using the file explorer
+## Uploading a file(s) or folder
+There are two ways to upload files using the file explorer
+
 | # | Step | Description |
 |------------|------------|------------|
 |1 | Select and Upload | Click on the **Upload** button to begin uploading files or folders to a specific folder >Note: |
 |2| Drag and Drop||
 
-## Downloading a file
+## Downloading file(s) or folder
 | # | Step | Description |
 |------------|------------|------------|

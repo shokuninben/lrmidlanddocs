@@ -38,3 +38,5 @@ In order to proceed, you must have the following:
 | # | Step | Description |
 |------------|------------|------------|
 |1| Navigate to the root folder `LRMidland`| Using the file explorer, double click on LRMidland root folder  ![L&R Midland root folder at file storage](img/LRMidlandRoot.png)|
+|2| The list of folder structure will be shown  | ![List of all Contract numbers](img/folderlist.png) |
+|3| Double click on a folder to view the contents within | Each folder will contain 3 main folders <ul><li>Contract</li><li>Miscellaneuous</li><li>Nomination_Confirmation</li></ul> ![Main Folders](img/mainfolders.png)|

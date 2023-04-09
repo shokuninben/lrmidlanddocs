@@ -3,8 +3,8 @@
   * [Pre-requisites](#pre-requisites)
   * [Connecting to L&R Midland's "Paperless" storage](#connecting-to-l-r-midland-s--paperless--storage)
   * [Exploring and Viewing Files](#exploring-and-viewing-files)
-  * [Uploading a file(s) or folder](#uploading-a-file-s--or-folder)
-  * [Downloading file(s) or folder](#downloading-file-s--or-folder)
+  * [Uploading a file or folder](#uploading-a-file-or-folder)
+  * [Downloading a file or folder](#downloading-a-file-or-folder)
 
 # Accessing L&R Midland's Groundbreaking and Integrated Paperless Feature
 

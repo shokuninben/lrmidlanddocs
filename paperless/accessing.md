@@ -49,7 +49,7 @@ There are two ways to upload files using the file explorer
 
 | # | Step | Description |
 |------------|------------|------------|
-|1 | Select and Upload | Click on the **Upload** button to begin uploading files or folders to a specific folder >Note: |
+|1 | Select and Upload | Click on the **Upload** button to begin uploading files or folders to a specific folder ![Upload process](img/upload.png) |
 |2| Drag and Drop||
 
 ## Downloading file(s) or folder

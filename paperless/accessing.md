@@ -1,8 +1,8 @@
-- [Accessing L&R Midland's Groundbreaking and Integrated Paperless Feature](#accessing-l-r-midland-s-groundbreaking-and-integrated-paperless-feature)
+[Accessing L&R Midland's Groundbreaking and Integrated Paperless Feature](#accessing-l-r-midland-s-groundbreaking-and-integrated-paperless-feature)
   * [Pre-requisites](#pre-requisites)
   * [Connecting to L&R Midland's "Paperless" storage](#connecting-to-l-r-midland-s--paperless--storage)
   * [Exploring and Viewing Files](#exploring-and-viewing-files)
-  
+
 # Accessing L&R Midland's Groundbreaking and Integrated Paperless Feature
 
 L&R Midland's new system is now online! It can be accessed via any browser worldwide via [https://lrmidland.azurewebsites.net](https://lrmidland.azurewebsites.net). The new system also comes with a `Paperless Feature` which stores all files in a secure and managed cloud storage.

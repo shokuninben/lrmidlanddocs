@@ -60,6 +60,7 @@ There are two ways to upload files using the file explorer
 ## Downloading a file or folder
 | # | Step | Description |
 |------------|------------|------------|
+|1|Select file or folder to download | Click download to initiate. A dialog box will appear to ask you where to store the file at your local computer. ![Download file or folder](img/downloadfile.png)|
 
 ## Deleting a file or folder
 | # | Step | Description |

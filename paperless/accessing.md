@@ -50,7 +50,7 @@ There are two ways to upload files using the file explorer
 | # | Step | Description |
 |------------|------------|------------|
 |1 | Select and Upload | Click on the **Upload** button to begin uploading files or folders to a specific folder ![Upload process](img/upload.png) |
-|2| Drag and Drop|Select the file or files to upload and drag them to the file storage. Note that the file(s) will be uploaded to the folder where you're currently at. ![Drag to upload](img/dragupload.png) For easier reference, the last node of your **Breadcrumb navigation** is your current folder. ![Current folder](img/currentfolder.png)|
+|2| Drag and Drop|Select the file or files to upload and drag them to the file storage. Note that the file(s) will be uploaded to the folder where you're currently at. ![Drag to upload](img/dragupload.png) <br /><br /> For easier reference, the last node of your **Breadcrumb navigation** is your current folder. ![Current folder](img/currentfolder.png)|
 
 ## Downloading file(s) or folder
 | # | Step | Description |

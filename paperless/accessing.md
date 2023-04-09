@@ -44,7 +44,7 @@ In order to proceed, you must have the following:
 |2| Folders named after Contract numbers will be shown | ![List of all Contract numbers](img/folderlist.png) |
 |3| Double click on a folder to view the contents within | Each folder will contain 3 main folders <ul><li>Contract</li><li>Miscellaneuous</li><li>Nomination_Confirmation</li></ul> ![Main Folders](img/mainfolders.png)|
 |4| Folder arrows and breadcrumb navigations | <ul><li>Click on the navigation arrows to move to other folder levels and explore</li><li> You can also use the breadcrumb navigation to move here to and from folders </li></ul> ![Navigation options](img/navigations.png)|
-|5| Using the **Filter by prefix** <br /> - You can also search for a file or folder by specifying a search string in this textbox | <ul><li>Go to `LRMidland` root folder and double click on it to reveal all contents ![reveal contents](img/doubleclickreveal.png)</li><li> Enter search string and the display panel will reveal matches if any ![search string](img/specifysearch.png) |
+|5| Using the **Filter by prefix** <br /> > You can also search for a file or folder by specifying a search string in this textbox | <ul><li>Go to `LRMidland` root folder and double click on it to reveal all contents ![reveal contents](img/doubleclickreveal.png)</li><li> Enter search string and the display panel will reveal matches if any ![search string](img/specifysearch.png) |
 
 ## Uploading a file or folder
 There are two ways to upload files using the file explorer

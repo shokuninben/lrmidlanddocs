@@ -25,6 +25,6 @@ In order to proceed, you must have the following:
 ## Connecting to Paperless Feature
 | # | Step | Description |
 |------------|------------|------------|
-| 1| Open Azure File Explorer | <ul><li>Launch and open Azure File Explorer at your local machine.</li> <li>View Azure File Explorer official software logo / icon [here](img/azure_file_explorer.png)</li></ul> |
-| 2 | Navigate to lrmidlandpaperless File Storage node | <ul><li>Click to expand on `Storage Accounts`</li> <li>Expand `stractlrml` </li><li>Expand `File Shares` </li><li>Double click `lrmidlandpaperless` node to open and explore cloud-based storage </li></ul> View expanded storage explorer ![here](img/stoage_expanded.png) for further reference.|
+| 1| Open Azure File Explorer | <ul><li>Launch and open Azure File Explorer at your local machine.</li>  ![Azure File Explorer](img/azure_file_explorer.png)</li></ul> |
+| 2 | Navigate to lrmidlandpaperless File Storage node | <ul><li>Click to expand on `Storage Accounts`</li> <li>Expand `stractlrml` </li><li>Expand `File Shares` </li><li>Double click `lrmidlandpaperless` node to open and explore cloud-based storage </li></ul> View expanded storage explorer ![Expanded view](img/stoage_expanded.png) for further reference.|
 
